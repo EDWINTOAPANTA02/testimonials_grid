@@ -118,10 +118,7 @@ h3{
     font-size: 0.75em;
 }
 
-.espaciado_especial h2,h3{
-    line-height: 1.6;
-    font-size: 0.75em;
-}
+
 
 @media (max-width:435px){
     body{
